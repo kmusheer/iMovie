@@ -1,15 +1,28 @@
-# Getting Started with Create React App
+# IMovie/Movix react app
+# Home Page
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![Movix](https://github.com/kmusheer/iMovie/assets/99362063/5ef8eb00-2076-4756-9bf5-0e3d8cbb2d51)
+
+# Movie & TV Shows
+![Movie](https://github.com/kmusheer/iMovie/assets/99362063/df14655b-6c16-49ff-b461-5e2fb89cae03)
+![TV Show](https://github.com/kmusheer/iMovie/assets/99362063/0cc355dc-221b-41c8-b6f7-c97e2027cbb7)
+
+# Watch Movie and TV show
+![watch](https://github.com/kmusheer/iMovie/assets/99362063/1b420ad2-d57e-4183-8119-60a9a09c4558)
+
+# Getting Started with Create React Vite App
+
+
+This project was bootstrapped with ([https://vitejs.dev/guide/](https://vitejs.dev/guide/)).
 
 ## Available Scripts
 
 In the project directory, you can run:
 
-### `npm start`
+### `npm run dev`
 
 Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Open ([http://localhost:3000](http://localhost:5173/)) to view it in your browser.
 
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
